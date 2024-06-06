@@ -1,4 +1,6 @@
-#  똑똑("Knowck Knowck")
+#  똑똑(Knowck-Knowck)
+### 현대인을 위한 문해력 향상 서비스
+![Slide 16_9 - 1 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/851fe36f-848c-41db-8e49-d9def7d6f9d5)
 
 ## 목차
 - :smile:[프로젝트 소개](#프로젝트소개)
