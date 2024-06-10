@@ -10,19 +10,35 @@
 - :point_right:[데모 영상](#데모영상)
 - :computer:[레포지토리 링크](#레포지토리링크)
 - :clipboard:[노션 링크](#노션링크)
-- :high_brightness:[협업 컨벤션](#협업컨벤션)
 - :page_facing_up:[API 명세](#API명세)
-- :frog:[시스템 아키텍쳐](#시스템아키텍쳐)
-- :frog:[ERD](#ERD)
 - :bookmark_tabs:[개발 문서](#개발문서)
 
 
-<br/><br/><br/>
+<br/><br/>
 
 ## 프로젝트소개
 자극적인 디지털 매체의 노출로 인해 문해력이 저하된 현대인들에 도움을 주기 위한 애플리케이션입니다.<br/>
 다양한 주제의 글을 **읽고**, 글에 대해 **생각하고**, 글을 **요약**하는 일련의 과정을 통해 **문해력을 증진**시키고,<br/>
 또한 글에 대한 자신의 생각과 여러 다른 사람의 생각을 나눔으로써 디지털 소통 능력을 함양하고자 하는데 목표가 있습니다.
+
+<br>
+
+주요 **기능적** 목표
+- 매일 업데이트되는 기사 데이터를 수집하여 사용자에게 제공한다.
+- 사용자가 글을 읽고 글에 대한 요약을 작성한다.
+- 사용자가 작성한 요약을 open AI 서비스를 이용해 평가한다.
+- 사용자들간 서로의 생각을 나누기 위한 대화를 가능하게 한다.
+- 동기부여를 위해 결과와 지속성에 대한 여러 통계치를 제공한다.
+
+<br>
+
+주요 **기술적** 목표
+- React를 이용하여 프론트엔드를 구현하고, PWA(프로그레시브 웹 앱)을 통해 모바일 환경에서 이용가능하게 한다.
+- Spring boot를 이용하여 백엔드를 구현하고 애플리케이션의 안정성을 위해 주요 기능들에 대한 테스트 코드를 작성한다. 또한 OCP 원칙을 지키는 코드를 작성하여 다른사람이 이해하기 쉽도록 하고, 향후 유지보수 비용을 최소화한다.
+- Google Oauth 로그인을 이용한다.
+- 기사 데이터 수집을 위해 크롤러를 만들어 자동화하고, 이를 관리하기 위한 모니터링 시스템을 구축한다.
+- 여러 사람의 동시 개발을 편리하게 하기 위해 CI/CD 파이프라인을 구축하여 테스트과정과 배포과정을 자동화한다.
+
 
 <br/>
 
@@ -46,42 +62,23 @@ https://www.knowckknowck.com
 
 
 ## 레포지토리링크
-프론트엔드 : https://github.com/KnowckknowcK/FE <br>
-백엔드     : https://github.com/KnowckknowcK/BE <br>
-크롤링서버 : https://github.com/KnowckknowcK/Crawling-server
+파트별 자세한 내용은 각 레포지토리에 작성해두었습니다.(뱃지를 클릭하여 이동합니다.) <br> <br> 
+**프론트엔드** : [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/KnowckknowcK/FE) <br>
+**백엔드**     : [![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/KnowckknowcK/BE) <br>
+**크롤링서버** : [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/KnowckknowcK/Crawling-server)
 
 <br/>
 
 ## 노션링크
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/2-6-8f5096b15ce44b119c6a277bf4aace85?pvs=4)
 
-
-## 협업컨벤션
-[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/5936e1c6d55342bebc02f727c524a276)
-
+<br>
 
 ## API명세
 
 [<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">](https://api.knowckknowck.com/api-docs)
 
-
-## 시스템아키텍쳐
-**프론트엔드**
-![똑똑- 프론트엔드](https://github.com/KnowckknowcK/.github/assets/104684033/f0da85a0-14fe-4087-880b-52578d07203e)
-
 <br>
-
-**백엔드**
-![똑똑-백엔드 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/9af4e500-e22a-4baf-a48a-d0ca5f84fd09)
-
-<br/>
-
-## ERD
-
-![똑똑 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/f482bb1c-fe9b-4384-963f-4e67c813c99f)
-
-
-<br><br>
 
 ## 개발문서
 
@@ -94,3 +91,5 @@ https://www.knowckknowck.com
 ### 트러블슈팅
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://www.notion.so/498b5fc3d35246e8a044fcf73daf4ed1?v=cb37065c7eec4a4d907d4af4b6c698e1)
 
+### 협업컨벤션
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/5936e1c6d55342bebc02f727c524a276)
