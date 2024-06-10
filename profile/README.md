@@ -40,7 +40,7 @@ https://www.knowckknowck.com
 <br/>
 
 ## 데모영상
-https://www.youtube.com/watch?v=Lyn3a4ZAVWc
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Lyn3a4ZAVWc)
 
 <br/>
 
@@ -55,18 +55,15 @@ https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 ## 노션링크
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/2-6-8f5096b15ce44b119c6a277bf4aace85?pvs=4)
 
-<br>
 
 ## 협업컨벤션
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/5936e1c6d55342bebc02f727c524a276)
 
-<br>
 
 ## API명세
 
 [<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">](https://api.knowckknowck.com/api-docs)
 
-<br>
 
 ## 시스템아키텍쳐
 **프론트엔드**
