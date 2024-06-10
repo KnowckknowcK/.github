@@ -18,6 +18,15 @@
 
 <br/><br/><br/>
 
-## 프로젝트 소개
-자극적인 디지털 매체의 노출로 인해 문해력이 저하된 현대인들에 도움을 주기 위한 애플리케이션입니다.
-다양한 주제의 글을 **읽고**, 글에 대해 **생각하고**, 글을 **요약**하는 일련의 과정을 통해 문해력을 증진시키고, 또한 글에 대한 자신의 생각과 여러 다른 사람의 생각을 나눔으로써 디지털 소통 능력을 함양하고자 하는데 목표가 있습니다.
+## 프로젝트소개
+자극적인 디지털 매체의 노출로 인해 문해력이 저하된 현대인들에 도움을 주기 위한 애플리케이션입니다.<br/>
+다양한 주제의 글을 **읽고**, 글에 대해 **생각하고**, 글을 **요약**하는 일련의 과정을 통해 **문해력을 증진**시키고,<br/>
+또한 글에 대한 자신의 생각과 여러 다른 사람의 생각을 나눔으로써 디지털 소통 능력을 함양하고자 하는데 목표가 있습니다.
+
+<br/><br/>
+
+## 팀원소개
+| 강현수 | 권수현 | 김민주 | 박세연 | 주보경 |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| [<img src="https://github.com/Richter3766.png" width="100px">](https://github.com/Richter3766) | [<img src="https://github.com/kwonssshyeon.png" width="100px">](https://github.com/kwonssshyeon) | [<img src="https://github.com/minju26.png" width="100px">](https://github.com/minju26) | [<img src="https://github.com/adorableco.png" width="100px">](https://github.com/adorableco) | [<img src="https://github.com/jupyter1234.png" width="100px">](https://github.com/jupyter1234) | 
+| 프론트엔드•백엔드 | 프론트엔드•백엔드 | 프론트엔드•백엔드 | 프론트엔드•백엔드 | 프론트엔드•백엔드
