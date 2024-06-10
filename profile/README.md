@@ -7,7 +7,7 @@
 - :smile:[프로젝트 소개](#프로젝트소개)
 - :sunglasses:[팀원 소개](#팀원소개)
 - :bell:[배포 링크](#배포링크)
-- :point_right:[데모 링크](#데모영상)
+- :point_right:[데모 영상](#데모영상)
 - :computer:[레포지토리 링크](#레포지토리주소)
 - :clipboard:[노션 링크](#노션링크)
 - :high_brightness:[협업 컨벤션](#협업컨벤션)
@@ -38,7 +38,7 @@ https://www.knowckknowck.com
 
 <br/>
 
-## 데모링크
+## 데모영상
 https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 
 <br/>
@@ -53,8 +53,27 @@ https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 
 ## 노션링크
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/2-6-8f5096b15ce44b119c6a277bf4aace85?pvs=4)
+
 <br>
 
 ## 협업컨벤션
-[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://www.notion.so/5936e1c6d55342bebc02f727c524a276)
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/5936e1c6d55342bebc02f727c524a276)
+
+<br>
+
+## API명세
+[<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">](https://api.knowckknowck.com/api-docs)
+
+<br>
+
+## 시스템아키텍쳐
+**프론트엔드**
+![똑똑- 프론트엔드](https://github.com/KnowckknowcK/.github/assets/104684033/f0da85a0-14fe-4087-880b-52578d07203e)
+
+<br>
+
+**백엔드**
+![똑똑-백엔드 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/9af4e500-e22a-4baf-a48a-d0ca5f84fd09)
+
+
 
