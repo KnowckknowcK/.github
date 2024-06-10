@@ -10,7 +10,7 @@
 - :point_right:[데모 링크](#데모영상)
 - :computer:[레포지토리 링크](#레포지토리주소)
 - :clipboard:[노션 링크](#노션링크)
-- :high_brightness:[협업 rules](#협업Rules)
+- :high_brightness:[협업 컨벤션](#협업컨벤션)
 - :page_facing_up:[API 명세](#API명세)
 - :frog:[시스템 아키텍쳐](#시스템아키텍쳐)
 - :bookmark_tabs:[설계 문서](#설계문서)
@@ -50,4 +50,11 @@ https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 크롤링서버 : https://github.com/KnowckknowcK/Crawling-server
 
 <br/>
+
+## 노션링크
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/2-6-8f5096b15ce44b119c6a277bf4aace85?pvs=4)
+<br>
+
+## 협업컨벤션
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://www.notion.so/5936e1c6d55342bebc02f727c524a276)
 
