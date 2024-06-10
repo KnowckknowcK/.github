@@ -65,7 +65,7 @@ https://www.knowckknowck.com
 파트별 자세한 내용은 각 레포지토리에 작성해두었습니다.(뱃지를 클릭하여 이동합니다.) <br> <br> 
 **프론트엔드** : [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/KnowckknowcK/FE) <br>
 **백엔드**     : [![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/KnowckknowcK/BE) <br>
-**크롤링서버** : [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/KnowckknowcK/Crawling-server)
+**크롤링서버** : [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/KnowckknowcK/Crawling_server)
 
 <br/>
 
@@ -89,7 +89,7 @@ https://www.knowckknowck.com
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/2ec4fcebc0254ce9a76c7ddf0866ed67?v=cae5dc719d3a48e8a932d10d0d2123a2)
 
 ### 트러블슈팅
-[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://www.notion.so/498b5fc3d35246e8a044fcf73daf4ed1?v=cb37065c7eec4a4d907d4af4b6c698e1)
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/498b5fc3d35246e8a044fcf73daf4ed1?v=cb37065c7eec4a4d907d4af4b6c698e1)
 
 ### 협업컨벤션
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/5936e1c6d55342bebc02f727c524a276)
