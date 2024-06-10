@@ -8,13 +8,14 @@
 - :sunglasses:[팀원 소개](#팀원소개)
 - :bell:[배포 링크](#배포링크)
 - :point_right:[데모 영상](#데모영상)
-- :computer:[레포지토리 링크](#레포지토리주소)
+- :computer:[레포지토리 링크](#레포지토리링크)
 - :clipboard:[노션 링크](#노션링크)
 - :high_brightness:[협업 컨벤션](#협업컨벤션)
 - :page_facing_up:[API 명세](#API명세)
 - :frog:[시스템 아키텍쳐](#시스템아키텍쳐)
-- :bookmark_tabs:[설계 문서](#설계문서)
-- :date:[회의록 목록](#회의록)
+- :frog:[ERD](#ERD)
+- :bookmark_tabs:[개발 문서](#개발문서)
+
 
 <br/><br/><br/>
 
@@ -44,7 +45,7 @@ https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 <br/>
 
 
-## 레포지토리주소
+## 레포지토리링크
 프론트엔드 : https://github.com/KnowckknowcK/FE <br>
 백엔드     : https://github.com/KnowckknowcK/BE <br>
 크롤링서버 : https://github.com/KnowckknowcK/Crawling-server
@@ -62,6 +63,7 @@ https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 <br>
 
 ## API명세
+
 [<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">](https://api.knowckknowck.com/api-docs)
 
 <br>
@@ -75,19 +77,23 @@ https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 **백엔드**
 ![똑똑-백엔드 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/9af4e500-e22a-4baf-a48a-d0ca5f84fd09)
 
-<br/><br/>
+<br/>
 
-## 설계문서
-**요구사항 분석**
-<br>
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/spreadsheets/d/1SjBQ8adlV7ZN8iKeuNuK-pwtOkQoSDBIt8UmwQ9o7Xo)
+## ERD
 
-<br>
-
-**ERD**
 ![똑똑 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/f482bb1c-fe9b-4384-963f-4e67c813c99f)
 
 
-## 회의록
+<br><br>
+
+## 개발문서
+
+### 요구사항 분석
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/spreadsheets/d/1SjBQ8adlV7ZN8iKeuNuK-pwtOkQoSDBIt8UmwQ9o7Xo)
+
+### 회의록
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/2ec4fcebc0254ce9a76c7ddf0866ed67?v=cae5dc719d3a48e8a932d10d0d2123a2)
+
+### 트러블슈팅
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://www.notion.so/498b5fc3d35246e8a044fcf73daf4ed1?v=cb37065c7eec4a4d907d4af4b6c698e1)
 
