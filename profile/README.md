@@ -75,5 +75,15 @@ https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 **백엔드**
 ![똑똑-백엔드 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/9af4e500-e22a-4baf-a48a-d0ca5f84fd09)
 
+<br/><br/>
 
+## 설계문서
+**요구사항 분석**
+<br>
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/spreadsheets/d/1SjBQ8adlV7ZN8iKeuNuK-pwtOkQoSDBIt8UmwQ9o7Xo)
+
+<br>
+
+**ERD**
+![똑똑 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/f482bb1c-fe9b-4384-963f-4e67c813c99f)
 
