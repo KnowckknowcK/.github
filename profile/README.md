@@ -87,3 +87,7 @@ https://www.youtube.com/watch?v=Lyn3a4ZAVWc
 **ERD**
 ![똑똑 (1)](https://github.com/KnowckknowcK/.github/assets/104684033/f482bb1c-fe9b-4384-963f-4e67c813c99f)
 
+
+## 회의록
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://amethyst-slice-a85.notion.site/2ec4fcebc0254ce9a76c7ddf0866ed67?v=cae5dc719d3a48e8a932d10d0d2123a2)
+
