@@ -62,10 +62,10 @@ https://www.knowckknowck.com
 <br/>
 
 ## 발표자료
-[<img src="https://img.shields.io/badge/계획발표-fbc4ab?style=for-the-badge">](https://github.com/KnowckknowcK/.github/blob/main/종프2_6팀_똑똑_계획발표.pdf)
-[<img src="https://img.shields.io/badge/중간발표1-f8ad9d?style=for-the-badge">](https://github.com/KnowckknowcK/.github/blob/main/종프2_6팀_똑똑_중간발표1.pdf)
-[<img src="https://img.shields.io/badge/중간발표2-f4978e?style=for-the-badge">](https://github.com/KnowckknowcK/.github/blob/main/종프2_6팀_똑똑_중간발표2.pdf)
-[<img src="https://img.shields.io/badge/최종발표-f08080?style=for-the-badge">](https://github.com/KnowckknowcK/.github/blob/main/종프2_6팀_똑똑_최종발표.pdf)
+[<img src="https://img.shields.io/badge/계획발표-fbc4ab?style=for-the-badge">](https://github.com/KnowckknowcK/.github/tree/main)
+[<img src="https://img.shields.io/badge/중간발표1-f8ad9d?style=for-the-badge">](https://github.com/KnowckknowcK/.github/tree/main)
+[<img src="https://img.shields.io/badge/중간발표2-f4978e?style=for-the-badge">](https://github.com/KnowckknowcK/.github/tree/main)
+[<img src="https://img.shields.io/badge/최종발표-f08080?style=for-the-badge">](https://github.com/KnowckknowcK/.github/tree/main)
 
 <br>
 
