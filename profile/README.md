@@ -8,6 +8,7 @@
 - :sunglasses:[팀원 소개](#팀원소개)
 - :bell:[배포 링크](#배포링크)
 - :point_right:[데모 영상](#데모영상)
+- :smile:[발표자료](#발표자료)
 - :computer:[레포지토리 링크](#레포지토리링크)
 - :clipboard:[노션 링크](#노션링크)
 - :page_facing_up:[API 명세](#API명세)
@@ -59,6 +60,14 @@ https://www.knowckknowck.com
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Lyn3a4ZAVWc)
 
 <br/>
+
+## 발표자료
+[<img src="https://img.shields.io/badge/계획발표-fbc4ab?style=for-the-badge">](https://github.com/KnowckknowcK/.github/blob/main/종프2_6팀_똑똑_계획발표.pdf)
+[<img src="https://img.shields.io/badge/중간발표1-f8ad9d?style=for-the-badge">](https://github.com/KnowckknowcK/.github/blob/main/종프2_6팀_똑똑_중간발표1.pdf)
+[<img src="https://img.shields.io/badge/중간발표2-f4978e?style=for-the-badge">](https://github.com/KnowckknowcK/.github/blob/main/종프2_6팀_똑똑_중간발표2.pdf)
+[<img src="https://img.shields.io/badge/최종발표-f08080?style=for-the-badge">](https://github.com/KnowckknowcK/.github/blob/main/종프2_6팀_똑똑_최종발표.pdf)
+
+<br>
 
 
 ## 레포지토리링크
