@@ -47,7 +47,7 @@
 ## 팀원소개
 | 강현수 | 권수현 | 김민주 | 박세연 | 주보경 |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| [<img src="https://github.com/Richter3766.png" width="100px">](https://github.com/Richter3766) | [<img src="https://github.com/kwonssshyeon.png" width="100px">](https://github.com/kwonssshyeon) | [<img src="https://github.com/minju26.png" width="100px">](https://github.com/minju26) | [<img src="https://github.com/adorableco.png" width="100px">](https://github.com/adorableco) | [<img src="https://github.com/jupyter1234.png" width="100px">](https://github.com/jupyter1234) | 
+| [<img src="https://github.com/Richter3766.png" width="100px">](https://github.com/Richter3766) | [<img src="https://github.com/kwonssshyeon.png" width="100px">](https://github.com/kwonssshyeon) | [<img src="https://github.com/minju26.png" width="100px">](https://github.com/minju26) | [<img src="https://github.com/adorableco.png" width="100px">](https://github.com/adorableco) | [<img src="https://github.com/jupyter471.png" width="100px">](https://github.com/jupyter471) | 
 | 프론트엔드•백엔드 | 프론트엔드•백엔드 | 프론트엔드•백엔드 | 프론트엔드•백엔드 | 프론트엔드•백엔드
 
 <br/>
